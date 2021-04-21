@@ -1,0 +1,64 @@
+{
+  "result": [
+    {
+      "id": 1,
+      "name": "ROEISELAND Marte Olsbu",
+      "scope": "32:54.8",
+      "country": "Норвегия"
+    },
+    {
+      "id": 2,
+      "name": "ECKHOFF Tiril",
+      "scope": "33:24.1",
+      "country": "Норвегия"
+    },
+    {
+      "id": 3,
+      "name": "SOLA Hanna",
+      "scope": "33:38.8",
+      "country": "Беларусь"
+    },
+    {
+      "id": 4,
+      "name": "SIMON Julia",
+      "scope": "33:56.5",
+      "country": "Франция"
+    },
+    {
+      "id": 5,
+      "name": "KALKENBERG Emilie Aagheim",
+      "scope": "34:49.6",
+      "country": "Норвегия"
+    },
+    {
+      "id": 6,
+      "name": "PREUSS Franziska",
+      "scope": "35:00.7",
+      "country": "Германия"
+    },
+    {
+      "id": 7,
+      "name": "FIALKOVA Ivona",
+      "scope": "35:03.4",
+      "country": "Словакия"
+    },
+    {
+      "id": 8,
+      "name": "KAISHEVA Uliana",
+      "scope": "35:05.9",
+      "country": "Россия"
+    },
+    {
+      "id": 9,
+      "name": "KRUCHINKINA Elena",
+      "scope": "35:06.3",
+      "country": "Беларусь"
+    },
+    {
+      "id": 10,
+      "name": "KUKLINA Larisa",
+      "scope": "35:08.3",
+      "country": "Россия"
+    }
+  ]
+}
